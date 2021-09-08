@@ -1,3 +1,4 @@
+#Create a python script that generates the first 20 even numbers from 0.
 num = int(input("Enter the Number Till Where you want to print the Even Numbers : "))
 even_List = []
 for i in range(0, num):
